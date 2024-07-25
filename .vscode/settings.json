@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "Tree_reader_Angantyr.C": "cpp"
+        "Tree_reader_Angantyr.C": "cpp",
+        "DrawSurf.C": "cpp"
     }
 }
